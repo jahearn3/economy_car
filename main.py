@@ -64,7 +64,7 @@ ownership_years = 8
 annual_miles = 15000
 fuel_price = 4.00
 highway_fraction = 0.7
-min_seating = 6
+min_seating = 5
 
 filtered_df = df[df['Seating'] >= min_seating]
 
