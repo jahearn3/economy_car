@@ -1,0 +1,403 @@
+﻿Model,3-Yr_Resale_Value,5-Yr_Resale_Value,7-Yr_Resale_Value
+Toyota Corolla Hatchback,85.40%,81.10%,60.50%
+Subaru BRZ,85.20%,60.80%,52.00%
+Toyota Corolla Cross,84.50%,68.20%,58.70%
+Volkswagen Golf R,84.40%,57.10%,48.80%
+Toyota GR86,84.30%,60.80%,52.00%
+Toyota GR Supra,84.30%,60.80%,52.00%
+Ford Maverick,82.60%,56.90%,41.40%
+Chevrolet Express Passenger,82.00%,69.90%,45.90%
+Toyota Sienna,80.70%,60.60%,45.40%
+Toyota 4Runner,80.50%,75.10%,67.70%
+Toyota RAV4,80.20%,69.40%,55.60%
+Honda Civic,79.30%,69.20%,63.80%
+GMC Sierra 3500HD,78.80%,72.30%,62.20%
+Chevrolet Silverado 3500HD,78.30%,70.10%,65.10%
+Honda HR-V,77.30%,68.40%,63.90%
+Toyota Corolla,77.00%,67.10%,63.30%
+Hyundai Venue,76.90%,69.00%,46.30%
+Toyota GR Corolla,76.90%,70.00%,60.50%
+Nissan Kicks,76.70%,66.10%,62.70%
+Chevrolet Trailblazer,76.60%,47.70%,37.60%
+Toyota Tacoma,76.40%,72.00%,67.70%
+Subaru Impreza,76.30%,68.10%,61.90%
+Toyota RAV4 Prime,76.00%,68.20%,58.70%
+Toyota Crown Signia,76.00%,68.20%,58.70%
+Toyota Grand Highlander,76.00%,68.20%,58.70%
+Toyota Land Cruiser,76.00%,68.20%,58.30%
+RAM ProMaster 1500,75.90%,61.70%,45.90%
+RAM ProMaster Cargo Van,75.90%,61.70%,45.90%
+Ford E-Transit-350 Cargo Van,75.90%,61.70%,45.90%
+RAM ProMaster 2500,75.90%,61.70%,45.90%
+RAM ProMaster 3500,75.90%,61.70%,45.90%
+RAM ProMaster 3500 EV,75.90%,61.70%,45.90%
+Subaru Forester,75.70%,66.00%,51.50%
+Kia Carnival MPV,75.20%,58.20%,45.40%
+Ford Ranger,75.10%,67.30%,41.40%
+Toyota Prius Prime,74.60%,66.60%,61.40%
+Honda CR-V,74.50%,67.00%,58.90%
+Honda Civic Si,74.20%,66.10%,59.40%
+Ford F-250,74.10%,65.60%,56.70%
+Ford F-350,74.10%,65.60%,56.70%
+RAM 2500,74.10%,65.60%,56.70%
+RAM 3500,74.10%,65.60%,56.70%
+Ford F-450,74.10%,65.60%,56.70%
+Toyota Tundra,73.90%,70.90%,60.70%
+Kia Seltos,73.60%,49.60%,41.00%
+Chevrolet Express Cargo,73.30%,52.50%,45.90%
+Hyundai Elantra,73.10%,60.10%,53.20%
+Toyota Venza,73.10%,68.20%,58.70%
+Subaru Crosstrek,72.80%,63.40%,60.40%
+Volkswagen Jetta,72.70%,63.20%,45.90%
+GMC Sierra 2500HD,72.50%,61.20%,52.10%
+GMC Savana Cargo,72.30%,60.80%,45.90%
+GMC Savana Passenger,72.30%,63.40%,45.90%
+Volkswagen Golf GTI,71.50%,57.10%,53.80%
+Nissan Sentra,71.20%,64.50%,41.80%
+Toyota Prius,70.60%,62.40%,59.60%
+Kia Forte,70.30%,63.70%,46.40%
+Nissan Frontier,70.20%,62.30%,52.10%
+Toyota Sequoia,70.20%,67.20%,52.70%
+Kia K4,70.10%,63.70%,46.40%
+Kia K5,70.00%,63.70%,46.40%
+Honda Ridgeline,69.90%,63.20%,54.80%
+Honda Odyssey,69.60%,55.80%,45.40%
+MINI Hardtop,69.50%,57.10%,51.50%
+Nissan Z,69.50%,60.80%,52.00%
+Nissan GT-R,69.50%,60.80%,52.00%
+Kia Telluride,69.30%,48.70%,41.00%
+Honda Accord,69.00%,62.90%,55.00%
+Subaru Ascent,68.80%,51.70%,44.10%
+Honda Civic Hatchback,68.60%,62.10%,54.40%
+Mazda Mazda3 Hatchback,68.60%,62.10%,54.40%
+Toyota Camry,68.50%,60.10%,54.60%
+Subaru Outback,68.30%,59.60%,45.80%
+Kia Sorento,68.10%,43.10%,33.40%
+GMC Canyon,68.10%,64.10%,55.90%
+Toyota Highlander,67.60%,61.00%,50.30%
+Subaru WRX,67.50%,64.50%,58.00%
+FIAT 500e,67.10%,57.10%,35.40%
+Buick Encore GX,67.00%,59.90%,37.50%
+Kia Niro,66.90%,54.50%,48.00%
+Chevrolet Silverado 2500HD,66.90%,58.60%,47.30%
+Hyundai Kona,66.30%,57.20%,50.60%
+Mazda CX-30,66.20%,62.40%,51.70%
+Mitsubishi Mirage,65.80%,62.80%,56.70%
+Mazda Mazda3 Sedan,65.80%,59.20%,50.60%
+Mazda CX-50,65.60%,60.30%,51.70%
+Mazda CX-90,65.60%,60.30%,51.70%
+Mazda CX-70,65.60%,60.30%,51.70%
+Chevrolet Equinox,65.30%,49.40%,40.50%
+Mazda CX-5,65.10%,58.20%,51.70%
+Hyundai Palisade,65.10%,52.00%,46.30%
+Nissan Versa,64.80%,55.50%,39.30%
+Chevrolet Equinox EV,64.80%,47.70%,37.60%
+Ford Bronco Sport,64.70%,43.10%,36.60%
+Honda Passport,64.70%,58.70%,49.00%
+Kia EV9,64.60%,49.60%,41.00%
+Hyundai Santa Cruz,64.50%,60.10%,54.40%
+Ford Bronco,64.40%,43.10%,36.60%
+Jeep Gladiator,64.10%,61.10%,47.00%
+RAM 1500,63.70%,56.60%,47.00%
+Chevrolet Tahoe,63.60%,46.70%,39.80%
+Subaru Legacy,63.00%,55.50%,50.40%
+Hyundai Kona Electric,62.90%,56.20%,35.70%
+Hyundai IONIQ 5 N,62.90%,56.20%,46.30%
+Volkswagen Tiguan,62.50%,51.50%,41.70%
+Mitsubishi Mirage G4,62.30%,59.60%,51.40%
+Mitsubishi Outlander Sport,62.30%,53.00%,43.40%
+Kia Soul,62.20%,57.40%,49.60%
+Chevrolet Colorado,62.00%,50.60%,47.60%
+Volkswagen Taos,61.80%,47.50%,39.10%
+Honda Pilot,61.80%,51.00%,44.10%
+GMC Sierra EV,61.60%,58.10%,49.90%
+GMC HUMMER EV Pickup,61.60%,58.10%,49.90%
+Mitsubishi Eclipse Cross,61.40%,52.20%,43.50%
+MINI Convertible,61.30%,55.30%,43.40%
+Hyundai Tucson,61.20%,53.80%,47.20%
+GMC Yukon,60.80%,44.70%,41.50%
+Chevrolet Trax,60.60%,52.10%,42.90%
+Chevrolet Suburban,60.60%,44.20%,28.70%
+Jeep Compass,60.50%,57.50%,53.50%
+GMC Terrain,60.40%,55.50%,42.90%
+Kia Sportage,59.70%,52.30%,41.50%
+Mitsubishi Outlander,59.30%,49.50%,39.60%
+Chevrolet Blazer,59.20%,48.90%,37.60%
+GMC HUMMER EV SUV,59.20%,49.10%,39.20%
+MINI Countryman,58.70%,46.60%,43.60%
+Chevrolet Silverado 1500,58.70%,54.40%,46.40%
+Nissan Altima,58.50%,50.20%,36.70%
+GMC Yukon XL,58.00%,46.70%,36.00%
+Hyundai Sonata,57.70%,54.70%,45.50%
+Hyundai Santa Fe,57.50%,49.10%,41.20%
+GMC Acadia,57.50%,49.30%,36.50%
+Chevrolet Traverse,57.40%,44.80%,36.20%
+Nissan Pathfinder,57.10%,42.50%,31.60%
+Volkswagen Atlas,56.30%,44.50%,36.40%
+Jeep Wagoneer S,56.30%,49.50%,42.40%
+Jeep Wagoneer L,56.30%,49.50%,42.40%
+Buick Envista,56.20%,49.80%,37.50%
+Volkswagen ID. Buzz,56.20%,47.50%,39.10%
+Toyota Crown,56.10%,49.30%,44.10%
+Volkswagen Atlas Cross Sport,55.90%,46.60%,39.10%
+Chevrolet Camaro,55.90%,47.10%,42.00%
+Chevrolet Corvette Stingray,55.90%,47.10%,40.30%
+Chevrolet Corvette Z06,55.90%,47.10%,40.30%
+Ford Explorer,55.80%,43.40%,35.80%
+Chevrolet Malibu,55.40%,48.40%,44.00%
+Nissan Rogue,55.40%,50.90%,43.50%
+Ford F-150,55.30%,46.50%,41.40%
+Chevrolet Blazer EV,55.20%,47.70%,37.60%
+GMC Sierra 1500,55.00%,52.00%,43.80%
+Nissan TITAN XD,53.80%,44.50%,41.50%
+Jeep Wagoneer,53.10%,45.50%,38.90%
+Jeep Wrangler,52.70%,45.10%,38.60%
+Jeep Grand Wagoneer L,52.10%,44.60%,38.10%
+Ford Escape,52.00%,45.70%,39.10%
+Ford F-150 Lightning,51.80%,44.30%,37.90%
+Buick Envision,51.50%,49.70%,40.40%
+Jeep Grand Wagoneer,51.50%,44.00%,37.70%
+Honda Prologue,51.10%,43.70%,37.40%
+Nissan TITAN,51.00%,48.00%,44.40%
+Chevrolet Silverado EV,50.80%,43.50%,37.20%
+Hyundai IONIQ 5,50.60%,43.30%,37.10%
+Jeep Grand Cherokee,50.50%,32.30%,27.40%
+Hyundai IONIQ 6,50.40%,43.20%,36.90%
+Volkswagen Arteon,50.30%,45.60%,40.80%
+Ford Expedition,50.20%,41.00%,32.30%
+Kia EV6,50.10%,42.90%,36.70%
+Buick Enclave,50.00%,39.70%,34.60%
+Toyota bZ4X,49.90%,42.70%,36.50%
+Ford Edge,49.50%,42.10%,39.30%
+Ford Mustang,49.00%,45.40%,41.30%
+Jeep Grand Cherokee L,47.40%,42.40%,36.30%
+Subaru Solterra,47.10%,40.30%,34.50%
+Nissan Armada,46.90%,37.70%,28.50%
+Nissan LEAF,46.80%,37.70%,34.20%
+Ford Mustang Mach-E,46.50%,43.10%,36.60%
+Nissan Murano,46.30%,43.70%,37.20%
+Jeep Wrangler 4xe,46.20%,39.50%,33.80%
+Volkswagen ID.4,44.40%,39.70%,33.90%
+Nissan ARIYA,42.20%,36.10%,30.90%
+Chrysler Voyager,41.90%,35.80%,30.70%
+Chrysler Pacifica,41.90%,41.40%,36.00%
+Dodge Hornet,38.30%,35.30%,30.20%
+Dodge Durango,38.30%,35.30%,30.20%
+Toyota Mirai,23.00%,20.60%,14.30%
+Audi RS 6 Avant,85.20%,67.80%,41.70%
+Audi S4,84.40%,64.70%,45.80%
+Lexus RX 350,80.10%,69.30%,57.10%
+Audi S5 Sportback,79.90%,57.00%,38.10%
+Audi RS 5 Sportback,79.80%,57.00%,38.10%
+Audi S5 Coupe,77.70%,49.50%,44.30%
+BMW X4 M,76.20%,52.40%,38.40%
+Audi A6 allroad,75.40%,58.80%,41.70%
+Audi RS 5 Coupe,75.20%,49.50%,44.30%
+Cadillac CT5,74.60%,59.00%,33.50%
+Volvo V90 Cross Country,74.50%,52.60%,41.70%
+Audi SQ8,73.80%,59.00%,40.30%
+Audi S5 Cabriolet,73.60%,60.30%,28.70%
+Audi A4 allroad,73.10%,62.60%,41.70%
+Audi A7 Sportback,72.30%,57.00%,34.50%
+Audi S7 Sportback,72.30%,57.00%,41.70%
+Audi RS 7 Sportback,72.30%,57.00%,38.10%
+BMW X1,72.00%,56.60%,47.50%
+BMW 230,71.30%,60.30%,28.70%
+BMW Z4,71.30%,60.30%,28.70%
+BMW M8 Cabriolet,71.30%,60.30%,28.70%
+Audi RS Q8,70.70%,68.00%,40.30%
+Lexus TX,70.40%,60.20%,51.50%
+Jaguar XF,69.90%,48.20%,29.90%
+Volvo V60 Cross Country,69.90%,55.20%,41.70%
+BMW X6 M,69.70%,56.20%,37.50%
+Audi SQ5,69.20%,55.70%,40.60%
+Genesis GV70,68.50%,47.70%,39.90%
+BMW X5 M,68.40%,56.60%,37.10%
+Cadillac CT4,67.50%,61.50%,33.50%
+Volvo XC40,67.40%,54.50%,30.90%
+Lexus UX 250h,67.20%,57.50%,49.20%
+Lexus NX 250,67.20%,57.50%,49.20%
+Lexus UX 300h,67.20%,57.50%,49.20%
+Lexus NX 350,67.20%,57.50%,49.20%
+Lexus NX 350h,67.20%,57.50%,49.20%
+Lexus RX 350h,67.20%,57.50%,49.20%
+Lexus TX 350,67.20%,57.50%,49.20%
+Lexus RX 500h,67.20%,57.50%,49.20%
+Lexus RX 450h+,67.20%,57.50%,49.20%
+Lexus TX 500h,67.20%,57.50%,49.20%
+Lexus GX 550,67.20%,57.50%,49.20%
+Lexus LX 600,67.20%,57.50%,49.20%
+Bentley Continental GT,67.20%,61.10%,47.50%
+BMW X6,67.00%,55.50%,36.20%
+Audi Q8,66.80%,54.10%,40.30%
+Lexus RC 300,66.20%,52.30%,44.30%
+Lexus RC 350,66.20%,52.30%,44.30%
+Lexus IS 500,66.20%,52.30%,44.30%
+Genesis GV80 Coupe,66.20%,52.30%,44.30%
+Lexus RC F,66.20%,52.30%,44.30%
+Lexus LC 500h,66.20%,52.30%,44.30%
+Lexus LC 500,66.20%,52.30%,44.30%
+Acura RDX,65.90%,57.80%,42.70%
+Audi Q5 Sportback,65.80%,57.00%,38.10%
+Mercedes-Benz CLA 250 Coupe,65.40%,52.30%,44.30%
+Mercedes-Benz CLE,65.40%,52.30%,44.30%
+Mercedes-Benz GLE 450 Coupe,65.40%,52.30%,44.30%
+Mercedes-Benz AMG GT 43 4-Door Coupe,65.40%,52.30%,44.30%
+Mercedes-Benz AMG GT,65.40%,52.30%,44.30%
+BMW M5,64.90%,57.20%,49.00%
+Audi Q3,64.40%,62.10%,45.90%
+BMW X4,64.20%,51.70%,34.90%
+Audi Q6 e-tron,64.00%,56.00%,40.30%
+Audi SQ6 e-tron,64.00%,56.00%,40.30%
+Audi SQ8 e-tron,64.00%,56.00%,40.30%
+Audi SQ5 Sportback,63.70%,57.00%,38.10%
+Lincoln Corsair,63.40%,56.00%,32.90%
+Lexus NX,63.20%,54.10%,46.30%
+Bentley Bentayga,63.00%,43.80%,30.10%
+Volvo XC90,62.90%,45.50%,24.30%
+Audi A5 Sportback,62.30%,53.60%,48.90%
+Mercedes-Benz Sprinter 3500,62.20%,52.50%,43.40%
+Mercedes-Benz Sprinter 2500,62.20%,52.50%,43.40%
+Mercedes-Benz eSprinter 2500,62.20%,52.50%,43.40%
+Mercedes-Benz Sprinter 4500,62.20%,52.50%,43.40%
+Tesla Cybertruck,62.20%,52.50%,43.40%
+Volvo EX30,62.10%,49.70%,30.90%
+Volvo EX40,62.10%,49.70%,30.90%
+Volvo C40 Recharge Pure Electric,62.10%,49.70%,30.90%
+Volvo EX90,62.10%,49.70%,30.90%
+Audi S8,61.80%,43.30%,37.00%
+Audi A3,61.40%,52.80%,45.20%
+Audi S3,61.40%,52.80%,45.20%
+Audi A6,61.40%,52.80%,33.60%
+Audi RS 3 Sedan,61.40%,52.80%,45.20%
+Audi S6,61.40%,52.80%,46.90%
+Audi S e-tron GT,61.40%,52.80%,45.20%
+Audi SQ7,61.00%,52.90%,40.30%
+Land Rover Range Rover Evoque,60.90%,48.40%,30.70%
+BMW M8 Coupe,60.40%,46.40%,39.70%
+Cadillac XT6,60.30%,50.40%,33.50%
+BMW M240,60.00%,46.40%,39.70%
+BMW 4 Series Coupe,60.00%,46.40%,39.70%
+BMW M2,60.00%,46.40%,39.70%
+BMW M850i Gran Coupe,60.00%,46.40%,39.70%
+BMW M4,60.00%,46.40%,39.70%
+BMW M850i,60.00%,46.40%,39.70%
+BMW 530,59.60%,51.50%,49.00%
+BMW M340i,59.60%,51.50%,49.00%
+BMW 540,59.60%,51.50%,49.00%
+BMW 550e,59.60%,51.50%,49.00%
+BMW i5,59.60%,51.50%,49.00%
+BMW M3,59.60%,51.50%,49.00%
+BMW 740,59.60%,51.50%,49.00%
+BMW 840,59.60%,51.50%,49.00%
+BMW 750e,59.60%,51.50%,49.00%
+BMW 760,59.60%,51.50%,49.00%
+BMW M8 Gran Coupe,59.60%,46.40%,39.70%
+BMW i7,59.60%,51.50%,49.00%
+Audi A8,59.50%,52.80%,45.20%
+Audi Q7,59.20%,47.50%,34.90%
+Audi A4,58.70%,55.70%,41.70%
+INFINITI QX60,58.40%,40.60%,33.70%
+Cadillac XT4,58.30%,54.70%,30.90%
+BMW 3 Series,58.30%,45.70%,39.10%
+Genesis GV80,58.30%,47.70%,39.90%
+Audi Q4 e-tron,58.10%,49.70%,40.30%
+BMW X3,57.80%,48.00%,37.10%
+Mercedes-Benz GLA 250,57.60%,47.10%,34.00%
+Mercedes-Benz GLB 250,57.60%,47.10%,34.00%
+Mercedes-Benz EQB 250 SUV,57.60%,47.10%,34.00%
+Mercedes-Benz GLC 300,57.60%,47.10%,34.00%
+Mercedes-Benz EQB 300 SUV,57.60%,47.10%,34.00%
+Audi Q4 Sportback e-tron,57.60%,49.30%,38.10%
+Mercedes-Benz GLC 350e,57.60%,47.10%,34.00%
+Mercedes-Benz EQB 350 SUV,57.60%,47.10%,34.00%
+Mercedes-Benz GLE 350,57.60%,47.10%,34.00%
+Mercedes-Benz GLC,57.60%,47.10%,34.00%
+Mercedes-Benz GLE 450,57.60%,47.10%,34.00%
+Mercedes-Benz GLE 450e,57.60%,47.10%,34.00%
+Mercedes-Benz EQE 350 SUV,57.60%,47.10%,34.00%
+Mercedes-Benz GLS 450,57.60%,47.10%,34.00%
+Mercedes-Benz GLE 580,57.60%,47.10%,34.00%
+Mercedes-Benz EQE 500 SUV,57.60%,47.10%,34.00%
+Mercedes-Benz EQS 450 SUV,57.60%,47.10%,34.00%
+Mercedes-Benz GLS 580,57.60%,47.10%,34.00%
+Mercedes-Benz EQS 580 SUV,57.60%,47.10%,34.00%
+Mercedes-Benz G 550,57.60%,47.10%,34.00%
+Mercedes-Benz GLS,57.60%,47.10%,34.00%
+Mercedes-Benz G 580e,57.60%,47.10%,34.00%
+Land Rover Discovery Sport,57.10%,43.10%,32.90%
+INFINITI QX50,57.00%,42.30%,30.90%
+Cadillac OPTIQ,57.00%,45.40%,30.90%
+Cadillac LYRIQ,57.00%,45.40%,30.90%
+Acura MDX,57.00%,45.60%,37.80%
+Cadillac Escalade IQ,57.00%,45.40%,30.90%
+BMW X7,56.90%,40.60%,38.40%
+Cadillac Escalade,56.80%,43.80%,32.40%
+Acura Integra,56.60%,48.40%,38.10%
+INFINITI QX55,56.30%,37.90%,30.90%
+Mercedes-Benz E 350,56.00%,48.20%,40.00%
+Mercedes-Benz CLE 300,56.00%,48.20%,40.00%
+Mercedes-Benz CLE 450,56.00%,48.20%,40.00%
+Mercedes-Benz E 450,56.00%,48.20%,40.00%
+Mercedes-Benz EQE 350 Sedan,56.00%,48.20%,40.00%
+Mercedes-Benz EQE 500 Sedan,56.00%,48.20%,40.00%
+Mercedes-Benz S 500,56.00%,48.20%,40.00%
+Mercedes-Benz EQS 580 Sedan,56.00%,48.20%,40.00%
+Mercedes-Benz S 580e,56.00%,48.20%,40.00%
+Mercedes-Benz S 580,56.00%,48.20%,40.00%
+Mercedes-Benz EQS,56.00%,48.20%,40.00%
+Acura TLX,55.90%,48.50%,42.50%
+Volvo XC60,55.90%,49.30%,37.50%
+Volvo S90,55.90%,44.30%,35.20%
+Cadillac Escalade ESV,55.90%,37.70%,29.30%
+Audi A5 Cabriolet,55.80%,50.20%,28.70%
+BMW i4,55.80%,51.50%,49.00%
+Genesis G90,55.40%,44.90%,31.40%
+Genesis G70,55.30%,52.50%,33.80%
+Lincoln Aviator,55.30%,44.10%,32.90%
+BMW XM,55.10%,47.20%,38.40%
+Jaguar F-TYPE,54.90%,47.00%,28.70%
+Land Rover Defender,54.80%,51.80%,29.60%
+BMW X2,54.60%,50.80%,45.90%
+Volvo S60,54.50%,46.50%,30.70%
+Lexus IS 300,54.40%,48.00%,36.70%
+Lexus IS 350,54.40%,48.00%,36.70%
+Lexus ES 250,54.40%,48.00%,36.70%
+Lexus ES 350,54.40%,48.00%,36.70%
+Lexus ES 300h,54.40%,48.00%,36.70%
+Lexus LS 500,54.40%,48.00%,36.70%
+Lexus LS 500h,54.40%,48.00%,36.70%
+Acura ZDX,54.30%,46.40%,40.30%
+Audi Q8 e-tron,54.10%,46.30%,40.30%
+Jaguar E-PACE,53.80%,43.90%,36.20%
+Genesis GV60,53.80%,47.70%,39.90%
+Lincoln Nautilus,53.70%,43.20%,32.90%
+Audi Q5,53.30%,48.30%,39.80%
+Land Rover Discovery,53.30%,38.40%,32.40%
+Lexus RZ,53.00%,45.30%,38.80%
+Cadillac XT5,52.60%,45.90%,33.50%
+Audi A5 Coupe,52.50%,49.50%,44.30%
+BMW iX,52.30%,44.70%,38.40%
+Audi e-tron GT,52.20%,44.60%,38.20%
+INFINITI QX80,51.80%,30.70%,28.10%
+Genesis G80,50.90%,46.10%,36.20%
+Lincoln Navigator,50.90%,42.60%,32.90%
+Audi RS e-tron GT,50.80%,43.40%,37.20%
+BMW X5,48.40%,42.20%,30.80%
+Genesis Electrified G80,48.30%,41.30%,33.80%
+Jaguar I-PACE,47.50%,33.10%,28.30%
+Land Rover Range Rover Sport,46.40%,35.50%,29.10%
+Land Rover Range Rover Velar,45.80%,38.30%,33.20%
+Tesla Model Y,42.90%,39.90%,24.50%
+Tesla Model 3,42.50%,40.60%,36.40%
+Tesla Model X,41.80%,36.50%,24.50%
+Jaguar F-PACE,41.30%,34.80%,30.90%
+Maserati Ghibli,38.60%,33.70%,27.50%
+Alfa Romeo Tonale,37.10%,33.40%,26.20%
+Alfa Romeo Stelvio,37.10%,33.40%,26.20%
+Alfa Romeo Giulia,36.30%,33.30%,31.80%
+Tesla Model S,35.00%,29.30%,21.80%
+Land Rover Range Rover,32.30%,24.40%,19.50%
+Maserati Quattroporte,31.80%,30.10%,21.90%
+Maserati Grecale,28.90%,25.90%,19.80%
+Maserati Levante,28.90%,25.90%,19.80%
