@@ -1,0 +1,352 @@
+﻿Make,Model,MSRP
+Acura,ADX,36350
+Acura,Integra,34195
+Acura,MDX,52550
+Acura,RDX,46050
+Acura,TLX,46595
+Acura,ZDX,65850
+Alfa Romeo,Giulia,43285
+Alfa Romeo,Stelvio,50990
+Alfa Romeo,Tonale,38490
+Audi,A3,39495
+Audi,A4,43295
+Audi,A4 allroad,48695
+Audi,A5,47595
+Audi,A6,59395
+Audi,A6 allroad,71795
+Audi,A7,73295
+Audi,A8,93295
+Audi,e-tron GT,107995
+Audi,Q3,38695
+Audi,Q4 e-tron,51095
+Audi,Q5,46695
+Audi,Q6 e-tron,65095
+Audi,Q7,61795
+Audi,Q8,75695
+Audi,Q8 e-tron,75595
+Audi,RS 3,63395
+Audi,RS 5,81195
+Audi,RS 6 Avant,127895
+Audi,RS 7,129895
+Audi,RS e-tron GT,168295
+Audi,RS Q8,137495
+Audi,S3,49995
+Audi,S4,55595
+Audi,S5,59195
+Audi,S6,77195
+Audi,S7,86995
+Audi,S8,126595
+Audi,S e-tron GT,126795
+Audi,SQ5,59695
+Audi,SQ6 e-tron,74195
+Audi,SQ7,92095
+Audi,SQ8,98895
+Audi,SQ8 e-tron,90995
+BMW,2 Series,40775
+BMW,3 Series,47125
+BMW,4 Series,59875
+BMW,5 Series,59875
+BMW,7 Series,98475
+BMW,8 Series,92875
+BMW,i4,53975
+BMW,i5,68275
+BMW,i7,106875
+BMW,iX,88425
+BMW,M2,66675
+BMW,M3,77175
+BMW,M4,80875
+BMW,M5,120675
+BMW,M8,139975
+BMW,X1,42525
+BMW,X2,44025
+BMW,X3,51125
+BMW,X3 M,76495
+BMW,X4,56475
+BMW,X4 M,80275
+BMW,X5,67475
+BMW,X5 M,128375
+BMW,X6,76275
+BMW,X6 M,133275
+BMW,X7,85475
+BMW,XM,161675
+BMW,Z4,55675
+Buick,Enclave,46595
+Buick,Encore GX,27395
+Buick,Envision,37895
+Buick,Envista,25195
+Cadillac,CT4,36490
+Cadillac,CT4-V,48790
+Cadillac,CT5,49090
+Cadillac,CT5-V,58490
+Cadillac,Escalade,90295
+Cadillac,Escalade IQ,130090
+Cadillac,Escalade-V,164695
+Cadillac,LYRIQ,60090
+Cadillac,OPTIQ,54390
+Cadillac,VISTIQ,79090
+Cadillac,XT4,41990
+Cadillac,XT5,45790
+Cadillac,XT6,50690
+Chevrolet,Blazer,37095
+Chevrolet,Blazer EV,46095
+Chevrolet,Colorado,33595
+Chevrolet,Corvette,70195
+Chevrolet,Corvette E-Ray,108795
+Chevrolet,Equinox,29995
+Chevrolet,Equinox EV,34995
+Chevrolet,Express Cargo Van,43795
+Chevrolet,Express Passenger,46795
+Chevrolet,Malibu,26995
+Chevrolet,Silverado 1500,39195
+Chevrolet,Silverado 2500HD,47495
+Chevrolet,Silverado 3500HD,48695
+Chevrolet,Silverado EV,74900
+Chevrolet,Suburban,64195
+Chevrolet,Tahoe,61195
+Chevrolet,Trailblazer,24495
+Chevrolet,Traverse,42195
+Chevrolet,Traverse Limited,35915
+Chevrolet,Trax,21895
+Chrysler,Pacifica,44445
+Dodge,Challenger,34395
+Dodge,Charger,36920
+Dodge,Charger Daytona,61590
+Dodge,Durango,40090
+Dodge,Hornet,32995
+FIAT,500e,34095
+Ford,Bronco,41525
+Ford,Bronco Sport,31590
+Ford,Edge,39960
+Ford,Escape,30645
+Ford,E-Transit Cargo Van,51890
+Ford,Expedition,57625
+Ford,Explorer,41380
+Ford,F-150,39445
+Ford,F-150 Lightning,65190
+Ford,Maverick,28590
+Ford,Mustang,33515
+Ford,Mustang Mach-E,38490
+Ford,Ranger,34415
+Ford,Super Duty F-250,46965
+Ford,Super Duty F-350,48010
+Ford,Super Duty F-450,61450
+Ford,Transit Cargo Van,49260
+Ford,Transit Passenger Wagon,56915
+Genesis,Electrified G80,75625
+Genesis,Electrified GV70,68400
+Genesis,G70,43850
+Genesis,G80,58450
+Genesis,G90,91050
+Genesis,GV60,53800
+Genesis,GV70,47650
+Genesis,GV80,59650
+Genesis,GV80 Coupe,81400
+GMC,Acadia,44495
+GMC,Canyon,40095
+GMC,HUMMER EV Pickup,99045
+GMC,HUMMER EV SUV,99045
+GMC,Savana Cargo Van,42595
+GMC,Savana Passenger,49345
+GMC,Sierra 1500,40495
+GMC,Sierra 2500HD,48495
+GMC,Sierra 3500HD,49695
+GMC,Sierra EV,91995
+GMC,Terrain,31395
+GMC,Yukon,69395
+Honda,Accord,29445
+Honda,Civic,25400
+Honda,CR-V,31495
+Honda,HR-V,26795
+Honda,Odyssey,43670
+Honda,Passport,46200
+Honda,Pilot,41650
+Honda,Prologue,48850
+Honda,Ridgeline,41600
+Hyundai,Elantra,23320
+Hyundai,IONIQ 5,44075
+Hyundai,IONIQ 6,39045
+Hyundai,Kona,26000
+Hyundai,Kona Electric,34425
+Hyundai,Palisade,38675
+Hyundai,Santa Cruz,30200
+Hyundai,Santa Fe,35775
+Hyundai,Sonata,28095
+Hyundai,Tucson,30155
+Hyundai,Venue,21650
+INFINITI,QX50,44350
+INFINITI,QX55,51500
+INFINITI,QX60,51550
+INFINITI,QX80,84445
+Jaguar,E_PACE,50775
+Jaguar,F-PACE,58375
+Jaguar,I-PACE,73375
+Jeep,Compass,28895
+Jeep,Gladiator,40095
+Jeep,Grand Cherokee,38490
+Jeep,Grand Wagoneer,93945
+Jeep,Renegade,29445
+Jeep,Wagoneer,62040
+Jeep,Wagoneer S,67195
+Jeep,Wrangler,34090
+Kia,Carnival,38235
+Kia,EV6,43995
+Kia,EV9,56395
+Kia,K4,23165
+Kia,K5,28365
+Kia,Niro,28385
+Kia,Niro EV,40995
+Kia,Seltos,26085
+Kia,Sorento,33405
+Kia,Soul,21885
+Kia,Sportage,28785
+Kia,Telluride,37805
+Land Rover,Defender,58525
+Land Rover,Discovery,61825
+Land Rover,Discovery Sport,50175
+Land Rover,Range Rover,109725
+Land Rover,Range Rover Evoque,51175
+Land Rover,Range Rover Sport,81325
+Land Rover,Range Rover Velar,62975
+Lexus,ES,43215
+Lexus,GX,65285
+Lexus,IS,41610
+Lexus,LC,101100
+Lexus,LS,81685
+Lexus,LX,106850
+Lexus,NX,42140
+Lexus,RC,46445
+Lexus,RX,50475
+Lexus,RZ,43975
+Lexus,TX,56490
+Lexus,UX,37715
+Lincoln,Aviator,60590
+Lincoln,Corsair,40980
+Lincoln,Nautilus,53485
+Lincoln,Navigator,85260
+Maserati,GranCabrio,204995
+Maserati,GranTurismo,159995
+Maserati,Grecale,71395
+Maserati,Grecale Folgore,110495
+Maserati,Levante,103495
+Maserati,MC20,242995
+Mazda,CX-30,26415
+Mazda,CX-5,30190
+Mazda,CX-50,31720
+Mazda,CX-70,41900
+Mazda,CX-90,39300
+Mazda,Mazda3,25135
+Mazda,MX-5 Miata,30515
+Mercedes-Benz,AMG GT,102250
+Mercedes-Benz,C-Class,49600
+Mercedes-Benz,CLA,45550
+Mercedes-Benz,CLE,59150
+Mercedes-Benz,E-Class,63600
+Mercedes-Benz,Electric G-Class,162650
+Mercedes-Benz,EQB,54200
+Mercedes-Benz,EQE Sedan,76050
+Mercedes-Benz,EQE SUV,79050
+Mercedes-Benz,EQS Sedan,105550
+Mercedes-Benz,EQS SUV,106400
+Mercedes-Benz,eSprinter Cargo Van,74181
+Mercedes-Benz,G-Class,149400
+Mercedes-Benz,GLA,44150
+Mercedes-Benz,GLB,46950
+Mercedes-Benz,GLC,50400
+Mercedes-Benz,GLE,63000
+Mercedes-Benz,GLS,90350
+Mercedes-Benz,Metris Passenger Van,45495
+Mercedes-Benz,S-Class,118900
+Mercedes-Benz,SL,113100
+Mercedes-Benz,Sprinter Cargo Van,53125
+Mercedes-Benz,Sprinter Crew Van,56125
+Mercedes-Benz,Sprinter Passenger Van,59225
+MINI,Convertible,35125
+MINI,Countryman,40075
+MINI,Countryman SE,46375
+MINI,Electric Hardtop,31895
+MINI,Hardtop,30125
+Mitsubishi,Eclipse Cross,28140
+Mitsubishi,Mirage,17840
+Mitsubishi,Outlander,31140
+Mitsubishi,Outlander Sport,25190
+Nissan,Altima,28140
+Nissan,Ariya,41160
+Nissan,Armada,59530
+Nissan,Frontier,33560
+Nissan,Kicks,23220
+Nissan,Kicks Play,22910
+Nissan,LEAF,29280
+Nissan,Murano,41860
+Nissan,Pathfinder,37790
+Nissan,Rogue,29980
+Nissan,Sentra,22730
+Nissan,Titan,48700
+Nissan,Versa,18330
+Nissan,Z,44110
+Ram,1500,42370
+Ram,1500 Classic,40700
+Ram,2500,47660
+Ram,3500,48665
+Ram,ProMaster Cargo Van,47055
+Ram,ProMaster EV,58590
+Ram,ProMaster Window Van,59180
+Subaru,Ascent,40330
+Subaru,BRZ,32380
+Subaru,Crosstrek,27230
+Subaru,Forester,31415
+Subaru,Impreza,24780
+Subaru,Legacy,26380
+Subaru,Outback,30430
+Subaru,Solterra,39915
+Subaru,WRX,33855
+Toyota,4Runner,42220
+Toyota,bZ4X,38465
+Toyota,Camry,29835
+Toyota,Corolla,23460
+Toyota,Corolla Cross,25485
+Toyota,Corolla Hatchback,24915
+Toyota,Crown,42575
+Toyota,Crown Signia,45240
+Toyota,GR86,31135
+Toyota,Grand Highlander,42310
+Toyota,GR Corolla,39995
+Toyota,GR Supra,57385
+Toyota,Highlander,41270
+Toyota,Land Cruiser,58150
+Toyota,Prius,29485
+Toyota,Prius Plug-In Hybrid,34510
+Toyota,Prius Prime,34110
+Toyota,RAV4,30645
+Toyota,RAV4 Plug-In Hybrid,45660
+Toyota,RAV4 Prime,45085
+Toyota,Sequoia,64370
+Toyota,Sienna,40635
+Toyota,Tacoma,33085
+Toyota,Tundra,42035
+Volkswagen,Arteon,44305
+Volkswagen,Atlas,39625
+Volkswagen,Atlas Cross Sport,38615
+Volkswagen,Golf GTI,33190
+Volkswagen,Golf R,46890
+Volkswagen,ID.4,41420
+Volkswagen,ID.Buzz,61545
+Volkswagen,Jetta,23720
+Volkswagen,Taos,26420
+Volkswagen,Tiguan,30305
+Volvo,C40 Recharge,54895
+Volvo,EX40,53795
+Volvo,EX90,81290
+Volvo,S60,43645
+Volvo,S60 Plug-In Hybrid,53295
+Volvo,S90,59495
+Volvo,S90 Plug-In Hybrid,66845
+Volvo,V60 Cross Country,51495
+Volvo,V60 Plug-In Hybrid,72445
+Volvo,V90 Cross Country,60995
+Volvo,XC40,41945
+Volvo,XC40 Recharge,53745
+Volvo,XC60,48345
+Volvo,XC60 Plug-In Hybrid,59345
+Volvo,XC60 Recharge,59195
+Volvo,XC90,58695
+Volvo,XC90 Plug-In Hybrid,73195
