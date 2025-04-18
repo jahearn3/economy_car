@@ -4,17 +4,12 @@ df_makes = pd.read_csv('resale_value_make.csv')
 df_models = pd.read_csv('resale_value_model.csv')
 df_msrp = pd.read_csv('msrp.csv')
 
+resale_cols = ['3-Yr_Resale_Value', '5-Yr_Resale_Value', '7-Yr_Resale_Value']
+
 # Convert from percentage to float
-for col in ['3-Yr_Resale_Value', '5-Yr_Resale_Value', '7-Yr_Resale_Value']:
+for col in resale_cols:
     df_makes[col] = df_makes[col].str.replace('%', '').astype(float) / 100
     df_models[col] = df_models[col].str.replace('%', '').astype(float) / 100
-
-# df_models['diff_3_7'] = df_models['3-Yr_Resale_Value'] - df_models['7-Yr_Resale_Value']
-
-# result_df_sorted = df_models.sort_values(by='diff_3_7', ascending=True)
-
-# print(result_df_sorted.head())
-# print(result_df_sorted.tail())
 
 # Merge the dataframes df_msrp and df_makes on 'Make'
 df = pd.merge(df_msrp, df_makes, left_on='Make', right_on='Brand', how='left')
@@ -24,22 +19,21 @@ df.drop(columns=['Brand'], inplace=True)
 
 df['Make_and_Model'] = df['Make'] + ' ' + df['Model']
 
-df = df.merge(df_models,  left_on='Make_and_Model', right_on='Model', suffixes=('', '_new'), how='left')
+df = df.merge(
+    df_models,
+    left_on='Make_and_Model',
+    right_on='Model',
+    suffixes=('', '_new'),
+    how='left'
+    )
 
-for col in ['3-Yr_Resale_Value', '5-Yr_Resale_Value', '7-Yr_Resale_Value']:
+for col in resale_cols:
     df[col] = df[col + '_new'].combine_first(df[col])
 
-df.drop(columns=[col + '_new' for col in ['3-Yr_Resale_Value', '5-Yr_Resale_Value', '7-Yr_Resale_Value']], inplace=True)
+df.drop(columns=[col + '_new' for col in resale_cols], inplace=True)
 
-# print(df.head())
-# print(len(df))
-# print(len(df_models))
-# print(df['Model_new'].isnull().sum())
-
-for col in ['3-Yr_Resale_Value', '5-Yr_Resale_Value', '7-Yr_Resale_Value']:
+for col in resale_cols:
     df[col + '_USD'] = df['MSRP'] * df[col]
-
-# print(df.head())
 
 df['10-Yr_Resale_Value_USD'] = 0
 
@@ -59,7 +53,3 @@ for col in df.columns:
         result_df_sorted = df.sort_values(by=col, ascending=True)
         print(result_df_sorted[['Make_and_Model', 'MSRP', col]].head())
         print()
-
-# print(result_df_sorted.tail())
-
-# print(df.head(15))

@@ -1,10 +1,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 from matplotlib.ticker import FuncFormatter
-
-
-def dollar_formatter(x, _):
-    return f'${x:.2f}'
+from utils import dollar_formatter
 
 
 # Import gas_prices.csv
