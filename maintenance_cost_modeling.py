@@ -59,3 +59,13 @@ if saving:
 
 # TODO: Consider using a linear model for the first 5 years
 # TODO: and then the exponential model for the following 5
+
+# Beyond 10 years:
+
+# oil change every 5k miles: $50-$60?
+# tire rotation every 7k miles: $100-$120?
+# brake inspection each year: $210-$240
+# battery replacements every 4 years: $160-$180
+# filters replacement: $80-$90
+
+# on avg: $500-$700 per year
